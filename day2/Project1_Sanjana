@@ -1,0 +1,70 @@
+a=input().split(",")  
+for i in a:
+    i=i.lstrip()
+    i=i.rstrip()
+    div=[]
+    for j in range(2,10):
+        if j==2:
+            if int(i[-1]) in [0,2,4,6,8]:
+                div.append(j)
+        m=i
+        if j==3 or j==9:
+
+            sum=0
+            if int(m)<0:
+                m=int(m)*-1
+            for k in str(m):
+                sum=sum+int(k)
+            l=int(sum)-j*int((int(sum)/j))
+            if l==0:
+                div.append(j)
+
+        if j==8:
+            if int(m)<0:
+                m=int(m)*-1
+                m=str(m)
+                k=m
+            while len(m)>1:
+                m=(int(m[:-1])*2)+int(m[-1])
+                m=str(m)
+            if int(m)==8 or int(m)==0:
+                    div.append(j)
+        if j==7:
+            if int(m)<0:
+                m=int(m)*-1
+                m=str(m)
+            while len(m)>1:
+                m=int(m[:-1])+int(m[-1])*5
+                m=str(m)
+            if int(m)==7 or int(m)==0:
+                div.append(j)
+        if j==5:
+            if int(i[-1])==0 or int(i[-1])==5:
+                    div.append(j)
+        if j==4:
+            if int(m)<0:
+                m=int(m)*-1
+                m=str(m)
+            if len(m)>1:
+                if int(m[-2]) in [0,2,4,6,8]:
+                    if int(m[-1]) in [0,4,8]:
+                        div.append(j)
+                elif int(m[-2]) not in [0,2,4,6,8]:
+                    if int(m[-1]) in [2,6]:
+                            div.append(j)
+            else:
+                l=int(m) - j * int((int(m) / j))
+                if l==0:
+                    div.append(j)
+        if j==6:
+            if 2 in div and 3 in div:
+                div.append(j)
+    s=''
+    for k in div:
+        s+=str(k)
+        s+=','
+    if(len(div)==0):
+            print(i,"not divisible")
+    else:
+            print(i,"divisible by",s[:-1])
+
