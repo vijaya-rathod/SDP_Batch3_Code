@@ -1,1 +1,1 @@
-print('prohect1')
+print('project1')
