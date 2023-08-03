@@ -1,0 +1,105 @@
+l=input().split(",")
+
+
+for num in l:
+    if(num[0]=='-'):
+         print(num+": is not divisible")
+         continue
+    temp=list()
+    #check for dividible by 2
+
+    temp1=int(num[-1])
+    while(temp1>0):
+         temp1=temp1-2
+    
+    if(temp1==0):
+         temp.append(2)
+    
+     
+    
+    #check for divisible by 3
+    i=len(num)-1
+    temp1=0
+    while(i>=0):
+         temp1+=int(num[i])
+         i=i-1
+    while(temp1>0):
+         temp1=temp1-3
+    if(temp1==0):
+         temp.append(3)
+    
+
+    #check for dvisible by 4
+
+    temp1=int(num[-2:])
+    while(temp1>0):
+         temp1=temp1-4
+    
+    if(temp1==0):
+         temp.append(4)
+    
+    #check for divisible by 5
+
+    if(int(num[-1])==0 or int(num[-1])==5):
+         temp.append(5)
+
+    #check for divisible by 6
+
+    i=len(num)-1
+    temp1=0
+    while(i>=0):
+         temp1+=int(num[i])
+         i=i-1
+    while(temp1>0):
+         temp1=temp1-3
+    if(temp1==0):
+         temp1=int(num[-1])
+         while(temp1>0):
+            temp1=temp1-2
+    
+         if(temp1==0):
+            temp.append(6)
+    
+    #check for divisble by 7
+    temp2=num
+    while(int(temp2)>100):
+         temp2=str(int(temp2[-2:])+2*int(temp2[0:-2]))
+    temp1=int(temp2)
+    while(temp1>0):
+         temp1=temp1-7
+    
+    if(temp1==0):
+         temp.append(7)
+    
+
+    #check for divisible by 8
+    if(len(num)>2):
+        temp1=int(num[-3:])
+    else:
+         temp1=int(num)
+
+    while(temp1>0):
+         temp1=temp1-8
+    if(temp1==0):
+         temp.append(8)
+
+    #check for divisible by 9
+    i=len(num)-1
+    temp1=0
+    while(i>=0):
+         temp1+=int(num[i])
+         i=i-1
+    while(temp1>0):
+         temp1=temp1-9
+    if(temp1==0):
+         temp.append(9)
+
+    #printing the divisibles
+    if(len(temp)==0):
+         print(num+": is not divisible")
+    else:
+         print(num+": is divisible by ",end='')
+         for i in range(0,len(temp)-1):
+              print(temp[i],end='')
+              print(",",end='')
+         print(temp[len(temp)-1])
