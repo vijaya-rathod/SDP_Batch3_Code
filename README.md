@@ -1,108 +1,94 @@
-# SDP_Batch3_Code
+![Screenshot (181)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/8fdada93-3281-4ef8-b4f1-d02851bdff7b)
+![Screenshot (184)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/7f6f77e4-6e10-40ff-a10d-51da15c01dbc)
 
-
-![Screenshot (112)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/7aa3d520-599a-41c9-9cb1-ac3d1828b60f)
-
-![Screenshot (84)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/82085240-0e63-4d53-aecd-7da41609d1bf)
-
-![Screenshot (113)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/60a198f4-3cff-4c05-81de-5ef3a8d80016)
-![Screenshot (114)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/bcf54ec6-9778-4244-9ae7-8c966e1059bd)
-
-![Screenshot (115)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/be210d83-7328-41c6-bac7-70a7f3ed15ce)
-![Screenshot (116)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/c6fbc096-6324-4a95-8441-2b7270a8339c)
-
-![Screenshot (118)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/1e52448d-1081-400a-a8cd-ec4c990b59bd)
-![Screenshot (119)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/60de7953-369b-497a-994a-34ccb1eac8d6)
-![Screenshot (120)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/d5f11bdb-7c11-42c5-a3e5-3da8392e7454)
-![Screenshot (121)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/43652ec4-bd75-4e54-9687-6f491f65fde9)
-
-
-
-table before registration
-
-![Screenshot (122)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/794329cf-0191-4166-b0cc-8ded615e60b5)
-![Screenshot (123)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/ade578ab-e11d-4143-a7f7-bb7f6483acf5)
+![Screenshot (182)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/5f359d84-afd1-492d-ab4d-4bb491a417b2)
+![Screenshot (183)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/f6183234-0111-45db-a866-1343756cd1f4)
 
 email exists
+![Screenshot (185)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/e36ff483-aab8-432f-97de-5f416ee50ea9)
+![Screenshot (186)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/e55fa61e-ffb9-45a2-97b1-420af023e1d9)
+![Screenshot (187)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/e3e56389-9404-4d16-9b88-2c21d70bd8cf)
+email end
 
-![Screenshot (124)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/558da15f-92c5-4b50-8899-a7a1d8adbba0)
-![Screenshot (125)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/21d7f6d2-8704-4f1d-b1a9-e566dae66f0d)
+![Screenshot (188)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/2662bc93-f376-4456-9677-7982301600bb)
+![Screenshot (189)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/f7957015-65b7-42d7-a712-2b5e637fed99)
+![Screenshot (190)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/04b161e0-ec23-4bb6-9a9f-7f50fe6491e2)
+
+![Screenshot (191)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/4c352abc-892b-4326-80ce-2baed5a3d6ed)
+![Screenshot (192)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/71d0dd7b-f3fc-496c-9eab-c3ce01b2e48b)
 
 user id exists
-![Screenshot (126)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/cacb730f-d3a1-4eeb-b50a-1a6169723ae7)
-![Screenshot (127)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/525c9ddf-1ae6-4eeb-8fbc-9cb33c0ca06d)
+![Screenshot (194)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/e5857df1-ad06-44e3-85bf-130f2a789b14)
+![Screenshot (195)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/f25edf8e-328d-486e-891e-580b96d4f7b3)
+![Screenshot (196)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/55965a2b-58dc-484b-9e5c-afd058c5edd2)
+user id exists ends
 
-register
+registered
+![Screenshot (197)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/f18aec65-a4ec-43ca-8466-7dc17dbd3245)
+![Screenshot (198)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/5d276427-05dd-4a60-91e4-e850fd21132c)
+![Screenshot (199)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/7c162148-dfdf-4747-8c69-9c6bee664194)
+register ends
 
-![Screenshot (128)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/c65d70d0-9b22-4dc9-b3c9-c9a8c82c2de0)
-![Screenshot (129)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/cd9a27af-8bcd-4baf-9420-0a410879ea6e)
-![Screenshot (130)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/ee48c466-176a-4277-b0f1-a3d8875e6136)
-tables
-
-![Screenshot (131)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/1580fb5e-2350-4cd5-867d-c4032944f462)
-![Screenshot (132)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/a1f5cc4f-d0b4-4419-a165-635016021465)
+tables 
+![Screenshot (202)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/be1f42ee-91e4-42ee-b25f-e7660cf38fca)
+![Screenshot (203)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/55144652-6019-4b5a-91da-6134aa085bab)
+tables end
 
 login
-![Screenshot (133)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/48449046-38d0-45ca-b176-393b84e5d5b3)
-![Screenshot (134)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/105535c0-7ba8-4b04-b38d-bb1d5bcf5383)
+![Screenshot (204)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/1f08ca30-3143-4f90-8a68-d9951f9414e8)
 
-after login
-![Screenshot (135)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/91f99858-70d8-4822-a499-6453134a9d98)
+![Screenshot (205)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/ca80921a-764b-4f4d-a604-88705b079995)
+![Screenshot (206)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/ddba0127-0a88-4e6b-9b2a-e1ccbf81f199)
+
 
 update
-![Screenshot (136)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/6eccbefa-ff9d-4727-a2d3-a84642f79eb9)
-![Screenshot (138)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/614a2c0c-8223-4bb6-a894-4d3653e46d12)
-![Screenshot (139)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/ea05b1cd-1a79-4c4d-8bd5-0bc2dc38a13e)
-
-update mail exists
-![Screenshot (140)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/6cb4b3df-df2a-484d-9d56-838b9ca7bb79)
-![Screenshot (141)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/de0ac4b3-3ca7-4739-9cad-1a83910d393e)
-
-![Screenshot (142)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/4556ca9b-f9fc-4581-b4a8-705bf55c4a10)
-![Screenshot (143)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/328faf4b-769a-48c1-b674-48dc3072fee6)
-![Screenshot (144)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/947d8634-df1a-49a7-aaee-041fe5a0066d)
-![Screenshot (145)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/2961e700-e819-4566-bd49-be3143829fbb)
+![Screenshot (207)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/82e81590-9965-4d7b-b9ba-13322678264a)
+![Screenshot (208)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/74012427-62f5-49b2-83a3-c2db5ca99d9f)
 
 
-![Screenshot (146)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/faffbdeb-4916-4dbb-bc30-dc70519940af)
+![Screenshot (211)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/ca7b6e2c-b13e-4914-8ac6-c3024fdbac9c)
+
+![Screenshot (212)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/e0ea9d85-fe53-4c36-af17-4d61596f6231)
 
 
-![Screenshot (147)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/774055b7-97f6-44b2-9b63-8bcf4c350010)
-![Screenshot (148)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/8b1e47a7-bc6d-4811-9dbc-c6c6d386359c)
-![Screenshot (149)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/64e459b2-65ee-42ee-836d-8fad25d2edd9)
-update image
-![Screenshot (150)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/6c40a6eb-891a-47a4-9db6-5d5dd67f3994)
+![Screenshot (213)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/92847407-7ba2-48b5-a302-98cce87fdaa5)
+![Screenshot (214)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/86c17583-9f2c-465d-b1ed-84e99dd1180d)
+
+
+![Screenshot (215)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/31289d08-5cfa-4109-b90f-82c8696aab8e)
+
+
+
+![Screenshot (216)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/adc453b2-0610-4ef2-bf39-765efadfa858)
+![Screenshot (217)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/99fdd329-65d2-4466-97f5-6f3c4e4eb719)
+![Screenshot (218)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/7f9376f4-201b-4593-b04e-d7e58a029a84)
+
+
+![Screenshot (219)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/0e1102bd-7483-4caa-a223-b4b63113da99)
+![Screenshot (220)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/ce39a06c-b357-4394-bb48-b3edbf708798)
+
 
 blog
-![Screenshot (151)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/b4ff7617-73b0-4bbc-ac2f-6e2abf06cb9e)
-![Screenshot (152)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/414f593a-c6a9-4724-aa66-b380370ed243)
-![Screenshot (153)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/d086d26d-17f1-44d5-b487-daf0da8f42dc)
+
+![Screenshot (221)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/be2b2596-7410-4689-bf82-7361a94809ed)
+![Screenshot (222)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/04790dbf-79bd-4b79-8c2a-832027270363)
+![Screenshot (223)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/8bee3466-9c6c-4097-a632-a40df2ad2292)
 
 
 admin
-![Screenshot (154)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/d960b9f9-f38c-4ca3-a9f9-523b93d48213)
+![Screenshot (226)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/53799387-a945-498d-adcc-e2dcf3a75ebf)
 
-![Screenshot (156)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/d72404cd-82eb-43a0-b330-c6b71ed91469)
+login
+![Screenshot (227)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/a0001b5a-9adb-44d9-9775-4bb2ea40580c)
+![Screenshot (228)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/ad7cfe87-a320-4204-939e-03ee8b1a6301)
 
-admin login
-![Screenshot (157)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/01b7b85e-3578-47cb-833b-2c6a510b9122)
-![Screenshot (158)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/a5e99097-23f7-4312-b3cb-de1c90682bbc)
+after login
+![Screenshot (229)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/7081f31c-5894-4607-b915-efc13754499f)
 
-![Screenshot (159)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/6ac2210a-1a38-494e-9ccd-784429838583)
-
-![Screenshot (162)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/1f16a5f3-bf24-46cd-9152-226e9d2e9bc5)
-
-
-![Screenshot (163)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/14b98878-50ea-4e71-b49f-9a8a572b29ca)
-![Screenshot (164)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/c7f0b55d-ed0d-4fb3-b15c-3bf2a7276b4f)
+list
+![Screenshot (230)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/5a7017a7-d751-4aec-855b-e05bc8c19c77)
 
 
-![Screenshot (166)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/0ad335cf-bcc6-41d4-8e91-890a458ee744)
-
-
-![Screenshot (167)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/a714f3ca-6d40-4923-bf0d-9a33459921a1)
-
-
-![Screenshot (168)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/7d7ef198-cfca-4984-92bc-871c03fa6dd8)
-
-![Screenshot (171)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/3eef0d87-11fd-4914-8b67-d54f758bfaff)
+![Screenshot (231)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/323fad64-3afa-41eb-ade7-b610dd3c310e)
+![Screenshot (234)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/1b9ee02e-9a2f-414a-b82a-5654b322557b)
+![Screenshot (233)](https://github.com/vijaya-rathod/SDP_Batch3_Code/assets/119282682/445c9a0e-81d0-4e48-9de2-14aba93b544d)
